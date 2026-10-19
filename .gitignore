@@ -1,0 +1,7 @@
+# Public distribution repository: default deny.
+# Only the explicitly tracked public documents belong in Git.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!SECURITY.md
